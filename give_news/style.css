@@ -1,0 +1,47 @@
+table{
+    background: black;
+    color: white;
+    text-align: center;
+    font: Arial;
+    line-height: 2; 
+    font-size:16pt;
+    margin: auto;
+}
+p{
+    padding-top: 10px;
+}
+.pic{
+    text-align: center; 
+}
+table {border-collapse: separate; border-spacing: 4px;}
+table tr td {border: 1px solid white; border-radius: 4px; background: black;}
+table tr td:hover {background: black; transition-duration: 0.2s;}
+.ggg {
+    font-weight: 100;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    background: black;
+    transition: 0.2s;
+    width: auto; 
+}
+.gg {
+    font-weight: 800;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    background: black;
+    transition: 0.2s;
+    margin: 5px;
+    text-align: center;
+} 
+.g{
+    border: 1px solid white;
+    background-color: black; /* Цвет фона */
+    color: white; /* Цвет текста */
+    width:  200px;
+    height: 15px;
+}
+.fff{
+    background-color: black;
+}

@@ -1,0 +1,17 @@
+table{
+    background: black;
+    color: white;
+    text-align: center;
+    font: Arial;
+    line-height: 2; 
+    font-size:16pt;
+}
+table {border-collapse: separate; border-spacing: 4px;}
+table tr td {border: 1px solid white; border-radius: 4px; background: black;}
+table tr td:hover {background: black; transition-duration: 0.2s;}
+body{
+    background-color: black;
+}
+.txt{
+   font-size:24pt; 
+}
